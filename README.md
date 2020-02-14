@@ -3,6 +3,16 @@ Visualizing team and player statistics in the context of transactions
 
 ## Results
 
+### WNBA
+The sheet below shows the roster addition sheet for Kristi Toliver moving from the Mystics to the Sparks.
+
+![](toliver_img.png)
+
+- Toliver's high assist-to-turnover ratio should be a great benefit to the Sparks, who were middle-of-the-road in this metric last year. The Mystics will have to replace a very productive creater.
+- While her defense could be exploited at times, Toliver brings a versatile offenseive repertoire to the Sparks.
+- Toliver really seems to like shooting from the left wing.
+
+### NBA
 The sheet below shows the roster addition sheet for Al Horford moving from the Celtics to the 76ers.
 
 ![](horford_img.png)
